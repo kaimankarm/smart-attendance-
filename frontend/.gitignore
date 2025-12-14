@@ -22,3 +22,25 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# =========================
+# 🔒 PERSONAL / SENSITIVE DATA
+# =========================
+
+# Face recognition data
+backend/faces/
+
+# Databases
+backend/instance/
+instance/
+*.db
+
+# Python virtual environment
+backend/venv/
+venv/
+
+# ML / AI models
+frontend/public/models/
+
+# Documents & presentations
+*.pptx
+*.pdf
