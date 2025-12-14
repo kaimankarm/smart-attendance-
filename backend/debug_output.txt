@@ -1,0 +1,2 @@
+TYPE: <class 'list'>
+VAL: [{'text': 'how is my dick', 'options': ['verylong', 'handsome', 'very very long', 'veryhandsome'], 'correct': 0}]
